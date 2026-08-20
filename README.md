@@ -1,6 +1,6 @@
 # Awesome-Corporate-Governance-Platform
 
-## Top Corporate Governance Platform Ecosystem
+### Top Corporate Governance Platform Ecosystem
 
 **Curated List of SaaS/Hosted Platforms & Open-Source GitHub Projects**  
 *Focused on Board Management, Corporate Governance, Board Portals, Entity Governance, Meeting Management, Decision Management, Compliance & Governance Operations*  

@@ -132,7 +132,7 @@ git push
 
 
 
-(Get-Content -Path "../$repo_name/README.md") -replace "# Top ", "## Top " | Set-Content -Path "../$repo_name/README.md"
+(Get-Content -Path "../$repo_name/README.md") -replace "## Top ", "### Top " | Set-Content -Path "../$repo_name/README.md"
 
 # subl .
 

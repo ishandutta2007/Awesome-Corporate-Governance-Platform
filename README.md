@@ -31,83 +31,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Diligent One](https://www.diligent.com/platform/diligent-one)**  
-  Unified governance, risk, compliance, and board-management platform bringing board management and GRC activities into a centralized environment. :contentReference[oaicite:0]{index=0}
-
-- **[Diligent Boards](https://www.diligent.com/products/boards)**  
-  Enterprise board-management platform for agendas, board books, secure collaboration, voting, minutes, action tracking, governance records, and AI-powered meeting preparation. :contentReference[oaicite:1]{index=1}
-
-- **[OnBoard](https://www.onboardmeetings.com/)**  
-  Board-management and meeting platform supporting board books, agendas, meetings, minutes, voting, collaboration, and governance workflows.
-
-- **[Board Intelligence](https://www.boardintelligence.com/)**  
-  Board-management and board-intelligence platform focused on improving the quality of board information, decision-making, reporting, and governance processes.
-
-- **[Convene](https://www.azeusconvene.com/)**  
-  Secure board-management and meeting platform supporting agendas, board packs, minutes, voting, document collaboration, and governance workflows.
-
-- **[Boardable](https://boardable.com/)**  
-  Board-management platform designed for meeting scheduling, agendas, board packets, minutes, decisions, tasks, voting, and board communication.
-
-- **[Athennian](https://www.athennian.com/)**  
-  Governance-operations and entity-management platform connecting legal, finance, tax, and compliance teams around entity data, ownership structures, documents, appointments, and filings. :contentReference[oaicite:2]{index=2}
-
-- **[Diligent Entities](https://www.diligent.com/)**  
-  Entity-governance and management capabilities within the Diligent ecosystem for maintaining corporate entity records, governance information, compliance activities, and organizational structures.
-
-- **[Governance.com](https://www.governance.com/)**  
-  Digital governance platform focused on board and committee management, meeting workflows, documents, decisions, and governance administration.
-
-- **[Aprio](https://www.aprio.com/)**  
-  Professional-services and advisory platform with corporate governance, accounting, risk, tax, compliance, and related business services.
-
-- **[BoardPro](https://www.boardpro.com/)**  
-  Board-management platform for agendas, board packs, meetings, actions, voting, minutes, decision registers, document repositories, e-signatures, and board committees. BoardPro also offers an AI assistant and AI-generated minutes. :contentReference[oaicite:3]{index=3}
-
-- **[BoardEffect](https://www.boardeffect.com/)**  
-  Board-management platform supporting board books, agendas, meetings, documents, committees, minutes, and governance workflows.
-
-- **[Nasdaq Boardvantage](https://www.nasdaq.com/solutions/boardvantage)**  
-  Secure board-management platform for board materials, meetings, collaboration, governance records, and director communication.
-
-- **[BoardPAC](https://www.boardpac.co/)**  
-  Board portal and meeting-management platform supporting board packs, agendas, minutes, voting, approvals, and secure communication.
-
-- **[Passageways](https://www.onboardmeetings.com/)**  
-  Board-management technology focused on secure board materials, meeting preparation, collaboration, and governance workflows.
-
-- **[Sherpany](https://www.sherpany.com/)**  
-  Digital meeting-management and decision-making platform designed for executive and board meetings.
-
-- **[iBabs](https://www.ibabs.com/)**  
-  Meeting-management and board portal platform supporting agendas, documents, meetings, minutes, decisions, voting, and public-sector governance workflows.
-
-- **[Board Intelligence](https://www.boardintelligence.com/)**  
-  Board reporting and decision-support platform helping organizations improve board papers, reporting quality, and board decision-making.
-
-- **[BoardCloud](https://www.boardcloud.net/)**  
-  Board-management platform supporting board papers, meetings, agendas, minutes, governance documents, and collaboration.
-
-- **[BoardSpace](https://www.boardspace.com/)**  
-  Digital board portal focused on secure board information, meetings, documents, and governance collaboration.
-
-- **[eMeetings](https://www.emeetings.com/)**  
-  Digital meeting and board-management technology supporting agendas, documents, minutes, decisions, and meeting workflows.
-
-- **[BoardPro AI](https://www.boardpro.com/boardpro-ai)**  
-  AI capabilities integrated into BoardPro for board-pack analysis, meeting preparation, questions, minutes, and governance intelligence. :contentReference[oaicite:4]{index=4}
-
-- **[Diligent Director & Trustee Platform](https://www.diligent.com/solutions/directors-and-trustees)**  
-  Governance platform for directors and trustees providing board materials, secure collaboration, decision histories, governance records, education, and AI-assisted board preparation. :contentReference[oaicite:5]{index=5}
-
-- **[GEMS](https://www.diligent.com/)**  
-  Governance and entity-management capabilities for maintaining organizational and corporate records.
-
-- **[CSC Entity Management](https://www.cscglobal.com/)**  
-  Enterprise entity-management and corporate compliance platform supporting legal entities, corporate records, compliance obligations, and organizational structures.
-
-- **[Legal Entity Identifier / Entity Management Platforms](https://www.athennian.com/)**  
-  Specialized entity-governance systems for managing corporate structures, subsidiaries, officers, directors, ownership, filings, and compliance.
+| Platform | Core Governance Focus | Pricing (Starting Tier) | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Boardable](https://boardable.com/)** | Board management, agenda builder, packet distribution, voting, minutes, and e-signatures | Starts at $49/month (billed annually; or ~$17.99/user/month for Essentials) | 14-day free trial with full feature access (agenda builder, document sharing, e-signatures; no credit card required) |
+| **[BoardPro](https://www.boardpro.com/)** | Board packs, meeting minutes, decision registers, action tracking, and e-signatures | Starts at $1,500/year flat rate per board (Small Board/Nonprofit tier) | 30-day free trial with full feature access, unlimited users, and data retention upon upgrade (no credit card required) |
+| **[BoardPro AI](https://www.boardpro.com/boardpro-ai)** | AI-powered board pack summarization, agenda generation, and automated meeting minutes | Starts at $50/month add-on (or bundled in higher BoardPro tiers) | 30-day free trial included alongside BoardPro's standard 30-day platform trial |
+| **[BoardCloud](https://www.boardcloud.net/)** | Board papers, meeting agendas, minutes, digital collaboration, and governance repositories | Starts at $18.99/user/month (with annual discount tiers available) | 30-day free trial with full access to meeting pack creation and unlimited test board documents |
+| **[BoardSpace](https://www.boardspace.com/)** | Board portal for minutes, agendas, tasks, compliance records, and committee tracking | Starts at $69/month (Condos/HOAs) or $99/month (Non-profits & Charities) | 14-day guided sandbox trial upon demo request with sample board archives and test workflows |
+| **[iBabs](https://www.ibabs.com/)** | Meeting management, board portals, agenda distribution, voting, and decision logs | Starts at £12.64/user/month (~$16/user/month, minimum 10 users / ~$1,920/year) | 30-day free trial with full access to agenda preparation, document annotations, and secure voting |
+| **[Convene](https://www.azeusconvene.com/)** | Enterprise board portal for secure board books, live meeting annotations, voting, and audit trails | Starts at ~$400/user/year (or £195/user/year for public sector entry tier) | 30-day free trial with complete platform functionality and multi-device access without commitment |
+| **[OnBoard](https://www.onboardmeetings.com/)** | Digital board books, intelligent agendas, minutes builder, secure messaging, and Zoom integration | Starts at ~$2,400/year (~$200/month for Essentials tier, up to 10 users) | 30-day free trial with full platform access (agenda creation, meeting books, and annotations) |
+| **[Aprio](https://www.aprio.com/)** | Secure board management, committee workflows, document repositories, and decision records | Starts at ~$4,000/year flat subscription (includes up to 20 users and unlimited administrators) | 30-day full-access free trial with dedicated onboarding and sample board pack setup |
+| **[BoardEffect](https://www.boardeffect.com/)** | Board governance, committee collaboration, surveys, meeting books, and compliance records | Starts at ~$3,000/year (Pro tier for non-profits, healthcare, and education boards) | 14-day guided evaluation pilot with test board books and committee workflows upon request |
+| **[Diligent One](https://www.diligent.com/platform/diligent-one)** | Unified platform connecting board governance, enterprise risk, compliance, and audit oversight | Starts at ~$5,000/year (entry platform tier for base governance workflows) | 30-day free trial for GovernAI / AI Minutes module; 14-day guided sandbox pilot upon request |
+| **[Diligent Boards](https://www.diligent.com/products/boards)** | Enterprise board portal with secure board books, voting, resolutions, annotations, and AI prep | Starts at ~$5,000/year (or ~$450/user/year based on board size) | 30-day free trial for GovernAI features (AI-generated minutes & summaries); sales pilot available |
+| **[Diligent Entities](https://www.diligent.com/)** | Corporate entity management, subsidiary ownership structures, compliance calendars, and filings | Starts at ~$10,000/year (core entity governance for mid-market portfolios) | 30-day evaluation sandbox environment with sample entity records upon qualification |
+| **[Diligent Director & Trustee Platform](https://www.diligent.com/solutions/directors-and-trustees)** | Specialized governance portal for trustees, directors, advisory boards, and education modules | Starts at ~$5,000/year (specialized director/trustee license tier) | 30-day GovernAI feature trial and 14-day interactive trustee sandbox on request |
+| **[Board Intelligence](https://www.boardintelligence.com/)** | Board reporting, board pack quality optimization, decision-support, and governance intelligence | Starts at ~£7,700/year (~$9,800/year platform base fee via G-Cloud framework) | 14-day guided evaluation pilot with custom board paper templates upon demo request |
+| **[Athennian](https://www.athennian.com/)** | Entity governance operations, org charts, ownership tracking, director appointments, and filings | Starts at ~$25,000/year (Essentials tier for legal and corporate entity management) | 14-day guided proof-of-concept pilot with sample entity imports upon consultation |
+| **[Sherpany](https://www.sherpany.com/)** | Executive and board meeting management, agenda coordination, and decision registers | Starts at ~$5,000/year (~€400/month for Board starter package) | 14-day interactive demo pilot with test meeting rooms and agenda collaboration |
+| **[BoardPAC](https://www.boardpac.co/)** | Paperless board meeting automation, encrypted board packs, voting, approvals, and e-signatures | Starts at ~$3,600/year (~$300/month for standard board package) | 14-day guided interactive trial pilot with sample meeting packs upon sales setup |
+| **[Governance.com](https://www.governance.com/)** | Corporate governance automation, meeting orchestration, decision tracking, and task management | Starts at ~€5,000/year (~€415/month for core governance modules) | 14-day interactive sandbox trial upon demo consultation |
+| **[CSC Entity Management](https://www.cscglobal.com/)** | Enterprise legal entity management, corporate record-keeping, officer registers, and compliance | Starts at ~$3,500/year (flat-rate base tier including unlimited users) | 14-day guided sandbox access with test compliance calendars upon consultation |
+| **[Nasdaq Boardvantage](https://www.nasdaq.com/solutions/boardvantage)** | Secure enterprise board portal, document collaboration, meeting approvals, and governance records | Starts at ~$15,000/year (all-inclusive enterprise tier package) | 30-day proof-of-concept pilot available for qualified enterprise boards upon request |
+| **[eMeetings](https://www.emeetings.com/)** | Digital meeting management, automated agenda compilation, minute approval, and decision history | Starts at ~$1,200/year (~$100/month for Basic tier up to 10 users) | 14-day free trial with full access to agenda creation, minute drafting, and pack exports |
 
 ## Open-Source GitHub Projects
 
@@ -116,10 +63,10 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 ### Direct Governance / Decision Platforms
 
 - **[OpenPR](https://github.com/openprx/openpr)**  
-  Open-source project-management and governance platform with a dedicated governance center supporting proposals, configurable voting, decision records, audit logs, veto/escalation workflows, trust scores, AI agents, and MCP integration. It is one of the more directly relevant open-source projects for building governance workflows. :contentReference[oaicite:6]{index=6}
+  Open-source project-management and governance platform with a dedicated governance center supporting proposals, configurable voting, decision records, audit logs, veto/escalation workflows, trust scores, AI agents, and MCP integration. It is one of the more directly relevant open-source projects for building governance workflows.
 
 - **[Votiverse](https://github.com/votiverse/votiverse)**  
-  Open governance and voting platform designed for locally runnable governance systems. It includes proposals, voting, delegations, surveys, candidacies, member management, authentication, and PostgreSQL/SQLite support. :contentReference[oaicite:7]{index=7}
+  Open governance and voting platform designed for locally runnable governance systems. It includes proposals, voting, delegations, surveys, candidacies, member management, authentication, and PostgreSQL/SQLite support.
 
 - **[Loomio](https://github.com/loomio/loomio)**  
   Open-source collaborative decision-making platform supporting proposals, discussions, voting, decision records, and group governance.
@@ -136,10 +83,10 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 ### Governance / Voting Infrastructure
 
 - **[OpenPR](https://github.com/openprx/openpr)**  
-  Governance center with proposals, voting, configurable thresholds, decision records, audit logs, and escalation mechanisms. :contentReference[oaicite:8]{index=8}
+  Governance center with proposals, voting, configurable thresholds, decision records, audit logs, and escalation mechanisms.
 
 - **[Votiverse](https://github.com/votiverse/votiverse)**  
-  Governance engine implementing voting, delegation, proposals, surveys, and governance rules. :contentReference[oaicite:9]{index=9}
+  Governance engine implementing voting, delegation, proposals, surveys, and governance rules.
 
 - **[Loomio](https://github.com/loomio/loomio)**  
   Collaborative proposals and group decision-making.
